@@ -5,8 +5,8 @@ and are served at https://assets.opencdms.org
 
 To update the HTML index files run:
 ```
-python3 -m venv html-index2
-cd html-index2
+python3 -m venv venv
+cd venv
 . bin/activate
 
 git clone https://github.com/isedwards/html-index
